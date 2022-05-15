@@ -4,7 +4,7 @@ So.
 At the moment I am involved in projects such as:
 Massa;
 Masa;
-Minima;
+Minima, my guide - https://telegra.ph/2xMinima-node-in-1xVPSVDS-12-11;
 IDEP;
 Oasys;
 DeFund;
